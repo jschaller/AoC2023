@@ -1,5 +1,4 @@
 $content = Get-Content .\Day_3_Input.txt
-#$content = Get-Content .\reddit.txt
 $numberList = [System.Collections.ArrayList]::new()
 $symbolList = [System.Collections.ArrayList]::new()
 $lineNumber = 1
